@@ -4,8 +4,7 @@ Proyecto final del programa de desarrollo web de TripleTen. Aplicación full sta
 
 ## 🔗 Demo
 
-- **Frontend**: _(agregar link )_
-- **Backend**: _(agregar link )_
+- **Backend**: _([agregar link](https://ecommerceproyectofinal.duckdns.org/products) )_
 
 ---
 
@@ -133,7 +132,7 @@ Crea un archivo `.env` basado en `.env.example`:
 ```
 PORT=4000
 PLATZI_API_URL=https://api.escuelajs.co/api/v1
-FRONTEND_URL=http://localhost:5173
+FRONTEND_URL=https://ecommerceproyectofinal.duckdns.org
 ```
 
 Inicia el servidor:
@@ -233,7 +232,7 @@ _(Agregar capturas del catálogo, detalle de producto y carrito al completar el 
 
 ## 👩‍💻 Autora
 
-Desarrollado por **Corin** como proyecto final del programa de desarrollo web full stack de TripleTen.
+Desarrollado por **Corinto Antonio Marmolejo Garcez** como proyecto final del programa de desarrollo web full stack de TripleTen.
 
 ---
 
