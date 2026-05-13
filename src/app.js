@@ -8,7 +8,15 @@ const authRoutes = require('./routes/auth');
 const app = express();
 
 // Middlewares globales
-app.use(cors(['http://localhost:5173', 'http://localhost:5174']));
+app.use(cors({
+    origin: [
+        'http://localhost:5173',
+        'http://localhost:5174',
+        'http://ecommerceproyectofinal.duckdns.org',
+        'https://ecommerceproyectofinal.duckdns.org',
+    ],
+    credentials: true,
+}));
 app.use(express.json());
 
 // Rutas
