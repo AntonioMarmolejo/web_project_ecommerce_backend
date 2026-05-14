@@ -4,7 +4,7 @@ Proyecto final del programa de desarrollo web de TripleTen. Aplicación full sta
 
 ## 🔗 Demo
 
-- **Backend**: _([agregar link](https://ecommerceproyectofinal.duckdns.org/products) )_
+- **Backend**: _([Ir a la Página en Linea](https://ecommerceproyectofinal.duckdns.org/products) )_
 
 ---
 
@@ -222,15 +222,7 @@ La app estará disponible en `http://localhost:5173`
 2. Configurar variable de entorno `VITE_API_URL` apuntando a la URL del backend desplegado
 3. El sitio se despliega automáticamente en cada push a `main`
 
----
-
-## 📸 Capturas de pantalla
-
-_(Agregar capturas del catálogo, detalle de producto y carrito al completar el proyecto)_
-
----
-
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
 Desarrollado por **Corinto Antonio Marmolejo Garcez** como proyecto final del programa de desarrollo web full stack de TripleTen.
 
